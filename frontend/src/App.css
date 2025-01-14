@@ -1,0 +1,6 @@
+body { font-family: system-ui, sans-serif; margin: 0; padding: 0; }
+nav { background: #1a1a2e; padding: 1rem; }
+nav a { color: white; margin-right: 1.5rem; text-decoration: none; }
+.container { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
+.btn { display: inline-block; background: #4361ee; color: white; padding: 0.75rem 1.5rem; border-radius: 6px; text-decoration: none; }
+.session-placeholder { border: 1px dashed #ccc; padding: 2rem; margin-top: 1rem; border-radius: 8px; }
